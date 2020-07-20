@@ -1,3 +1,3 @@
 # MultithreadedProject
-项目优化
-主要是针对文件处理，文件解析入库，生文档，上传文档，下载文件等
+[项目背景](https://github.com/xurui742744538/MultithreadedProject/wiki/%E5%A4%9A%E7%BA%BF%E7%A8%8B%E9%87%8D%E6%9E%84-%E5%AE%9E%E6%88%98)
+
