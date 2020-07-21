@@ -38,18 +38,15 @@
       <find>存在没有修改过，可以直接使用</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="mavenHome" value="Bundled (Maven 3)" />
       </MavenGeneralSettings>
     </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
   </component>
   <component name="ProjectId" id="1cI852SbWgvPf3bmAi7KKyyq3kr" />
   <component name="ProjectViewState">
@@ -61,6 +58,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.JavaDocs" value="true" />
     <property name="Repository.Attach.Sources" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js-jscs-nodeInterpreter" value="C:\node-v8.9.0-win-x64\node.exe" />
@@ -190,12 +188,12 @@
       <method />
     </configuration>
     <configuration name="MutilThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dongnaoedu.test.MutilThreadTest" />
+      <option name="MAIN_CLASS_NAME" value="com.xx.test.MutilThreadTest" />
       <module name="ProjectPractice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dongnaoedu.test.*" />
+          <option name="PATTERN" value="com.xx.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,7 +202,7 @@
       </method>
     </configuration>
     <configuration name="RpcMode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dongnaoedu.rpcmode.RpcMode" />
+      <option name="MAIN_CLASS_NAME" value="com.xx.rpcmode.RpcMode" />
       <module name="ProjectPractice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -220,7 +218,7 @@
       </method>
     </configuration>
     <configuration name="SingleWeb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dongnaoedu.SingleWeb" />
+      <option name="MAIN_CLASS_NAME" value="com.xx.SingleWeb" />
       <module name="ProjectPractice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">

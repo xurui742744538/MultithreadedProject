@@ -1,10 +1,10 @@
-package com.dongnaoedu.service.problem;
+package com.xx.service.problem;
 
-import com.dongnaoedu.aim.Consts;
-import com.dongnaoedu.aim.ProblemBank;
-import com.dongnaoedu.vo.MultiProblemVo;
-import com.dongnaoedu.vo.ProblemCacheVo;
-import com.dongnaoedu.vo.ProblemDBVo;
+import com.xx.aim.Consts;
+import com.xx.aim.ProblemBank;
+import com.xx.vo.MultiProblemVo;
+import com.xx.vo.ProblemCacheVo;
+import com.xx.vo.ProblemDBVo;
 
 import java.util.concurrent.*;
 

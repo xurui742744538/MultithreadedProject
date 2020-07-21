@@ -1,7 +1,6 @@
-package com.dongnaoedu.aim;
+package com.xx.aim;
 
-import com.dongnaoedu.aim.Consts;
-import com.dongnaoedu.vo.PendingDocVo;
+import com.xx.vo.PendingDocVo;
 
 import java.util.LinkedList;
 import java.util.List;

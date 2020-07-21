@@ -1,7 +1,6 @@
-package com.dongnaoedu.service.problem;
+package com.xx.service.problem;
 
-import com.dongnaoedu.aim.BusiMock;
-import com.dongnaoedu.aim.ProblemBank;
+import com.xx.aim.BusiMock;
 
 import java.util.Random;
 

@@ -1,9 +1,6 @@
-package com.dongnaoedu.service.problem;
+package com.xx.service.problem;
 
-import com.dongnaoedu.aim.BusiMock;
-import com.dongnaoedu.aim.ProblemBank;
-
-import java.util.Random;
+import com.xx.aim.ProblemBank;
 
 /**
  * xulinfei

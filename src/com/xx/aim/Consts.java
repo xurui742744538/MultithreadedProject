@@ -1,4 +1,4 @@
-package com.dongnaoedu.aim;
+package com.xx.aim;
 
 /**
  * xulinfei

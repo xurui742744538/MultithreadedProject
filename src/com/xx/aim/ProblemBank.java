@@ -1,6 +1,6 @@
-package com.dongnaoedu.aim;
+package com.xx.aim;
 
-import com.dongnaoedu.vo.ProblemDBVo;
+import com.xx.vo.ProblemDBVo;
 
 import java.util.Random;
 import java.util.concurrent.ConcurrentHashMap;

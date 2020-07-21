@@ -1,10 +1,10 @@
-package com.dongnaoedu.rpcmode;
+package com.xx.rpcmode;
 
-import com.dongnaoedu.aim.Consts;
-import com.dongnaoedu.aim.MakeSrcDoc;
-import com.dongnaoedu.aim.ProblemBank;
-import com.dongnaoedu.service.DocService;
-import com.dongnaoedu.vo.PendingDocVo;
+import com.xx.aim.Consts;
+import com.xx.aim.MakeSrcDoc;
+import com.xx.aim.ProblemBank;
+import com.xx.service.DocService;
+import com.xx.vo.PendingDocVo;
 
 import java.util.List;
 import java.util.concurrent.*;

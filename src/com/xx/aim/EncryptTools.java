@@ -1,4 +1,4 @@
-package com.dongnaoedu.aim;
+package com.xx.aim;
 
 import org.apache.commons.lang.StringUtils;
 

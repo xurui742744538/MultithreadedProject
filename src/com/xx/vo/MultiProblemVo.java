@@ -1,4 +1,4 @@
-package com.dongnaoedu.vo;
+package com.xx.vo;
 
 import java.util.concurrent.Future;
 

@@ -1,4 +1,4 @@
-package com.dongnaoedu.vo;
+package com.xx.vo;
 
 /**
  * 动脑学院-Mark老师

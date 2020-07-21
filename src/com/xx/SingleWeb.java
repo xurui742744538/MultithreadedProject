@@ -1,9 +1,9 @@
-package com.dongnaoedu;
+package com.xx;
 
-import com.dongnaoedu.aim.MakeSrcDoc;
-import com.dongnaoedu.vo.PendingDocVo;
-import com.dongnaoedu.aim.ProblemBank;
-import com.dongnaoedu.service.DocService;
+import com.xx.aim.MakeSrcDoc;
+import com.xx.vo.PendingDocVo;
+import com.xx.aim.ProblemBank;
+import com.xx.service.DocService;
 
 import java.util.List;
 

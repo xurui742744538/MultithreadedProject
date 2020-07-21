@@ -1,10 +1,10 @@
-package com.dongnaoedu.service;
+package com.xx.service;
 
-import com.dongnaoedu.aim.BusiMock;
-import com.dongnaoedu.service.problem.ProblemMultiService;
-import com.dongnaoedu.vo.MultiProblemVo;
-import com.dongnaoedu.vo.PendingDocVo;
-import com.dongnaoedu.service.problem.ProblemService;
+import com.xx.aim.BusiMock;
+import com.xx.service.problem.ProblemMultiService;
+import com.xx.vo.MultiProblemVo;
+import com.xx.vo.PendingDocVo;
+import com.xx.service.problem.ProblemService;
 
 import java.util.*;
 import java.util.concurrent.ExecutionException;
