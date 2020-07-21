@@ -16,7 +16,7 @@ public class SingleWeb {
     public static void main(String[] args) {
 
         System.out.println("题库开始初始化...........");
-        ProblemBank.initBank();
+        ProblemBank.initBank();//添加注解
         System.out.println("题库初始化完成。");
 
         List<PendingDocVo> docList = MakeSrcDoc.makeDoc(2);
